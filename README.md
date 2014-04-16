@@ -1,4 +1,4 @@
 functionalprogr
 ===============
 
-Some exercise about the Functional Programming Course given at University of Trento
+Some exercise with OCaml about the Functional Programming Course given at University of Trento
